@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     # подключаются приложения для работы с плоскими страничками
     'django.contrib.sites',
     'django.contrib.flatpages',
+    'fpages',
 ]
 
 # SITE_ID нужна для работы с плоскими страничками
